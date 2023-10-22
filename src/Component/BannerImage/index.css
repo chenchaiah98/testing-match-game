@@ -1,0 +1,10 @@
+.banner-container {
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+}
+.banner-image {
+  height: 80%;
+  border-radius: 10px;
+}

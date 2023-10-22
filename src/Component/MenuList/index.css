@@ -1,0 +1,20 @@
+.menu-container {
+  padding: 0;
+  width: 30%;
+  margin: auto;
+  color: #ffff;
+}
+.menu-list {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  width: 100%;
+}
+.menu-item {
+  font-size: larger;
+  cursor: pointer;
+}
+.active {
+  color: red;
+  border-bottom: 2px solid blueviolet;
+}
